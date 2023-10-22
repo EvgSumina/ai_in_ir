@@ -1,0 +1,9 @@
+langchain==0.0.313
+fastapi==0.103.2
+uvicorn==0.23.2
+pydantic==2.4.2
+llama_cpp_python==0.2.11
+sentence-transformers==2.2.2
+pypdf==3.16.4
+pdfminer-six==20221105
+chromadb==0.4.14
